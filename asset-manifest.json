@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Movice_App/static/css/main.821f2d0e.chunk.css",
+    "main.js": "/Movice_App/static/js/main.19f7d471.chunk.js",
+    "main.js.map": "/Movice_App/static/js/main.19f7d471.chunk.js.map",
+    "runtime-main.js": "/Movice_App/static/js/runtime-main.ac9f4f3b.js",
+    "runtime-main.js.map": "/Movice_App/static/js/runtime-main.ac9f4f3b.js.map",
+    "static/js/2.1c932c0d.chunk.js": "/Movice_App/static/js/2.1c932c0d.chunk.js",
+    "static/js/2.1c932c0d.chunk.js.map": "/Movice_App/static/js/2.1c932c0d.chunk.js.map",
+    "index.html": "/Movice_App/index.html",
+    "precache-manifest.6d1f52a27493af7bbb0abc4fef8da6b5.js": "/Movice_App/precache-manifest.6d1f52a27493af7bbb0abc4fef8da6b5.js",
+    "service-worker.js": "/Movice_App/service-worker.js",
+    "static/css/main.821f2d0e.chunk.css.map": "/Movice_App/static/css/main.821f2d0e.chunk.css.map",
+    "static/js/2.1c932c0d.chunk.js.LICENSE.txt": "/Movice_App/static/js/2.1c932c0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac9f4f3b.js",
+    "static/js/2.1c932c0d.chunk.js",
+    "static/css/main.821f2d0e.chunk.css",
+    "static/js/main.19f7d471.chunk.js"
+  ]
+}
